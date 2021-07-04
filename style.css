@@ -48,8 +48,9 @@ button:hover {
 .experience-area {
   background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
-  background-position: left;
-  margin-top: 14px;
+  background-position:left center ;
+  padding-bottom: 15px;
+  
 }
 .likha-gulo-position-a-ana{
   width: 80%;
